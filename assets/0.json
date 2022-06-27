@@ -1,0 +1,23 @@
+{
+    "name": "La Habana",
+    "symbol": "LHB",
+    "description": "MVP KIMIALABS",
+    "image": "0.png",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "capital city"
+      },
+	  {
+        "trait_type": "accumulated_sales",
+        "value": "0"
+      }
+    ],
+    "properties": {
+      "creators": [
+        { "address": "BUoLxaTAr9aprnAR4cygkqSfR3DoBJEmHTZc16KoUEBT", "share": 100 }
+      ],
+      "files": [{ "uri": "0.png", "type": "image/png" }]
+    },
+    "collection": { "name": "MVP"}
+}

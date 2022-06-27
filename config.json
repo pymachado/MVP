@@ -1,0 +1,19 @@
+{
+    "price": 0.001,
+    "number": 1,
+    "gatekeeper": null,
+    "solTreasuryAccount": "BUoLxaTAr9aprnAR4cygkqSfR3DoBJEmHTZc16KoUEBT",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": null,
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "nft-storage",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "nftStorageKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEM4ODg5NDY5MjE1NzZBNDRlZDRjNEQ5ZkJENjk5N2RlQjcwYUVlMmMiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTYzNDE1NjE2NjQ4NSwibmFtZSI6ImVtZXJhbGQifQ.QE1b8sJNWYpjlkfa_9DAn8tx3pfzO5ZJDiYYV2kjnZU",
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}
