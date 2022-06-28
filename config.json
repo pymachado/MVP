@@ -9,11 +9,11 @@
     "endSettings": null,
     "whitelistMintSettings": null,
     "hiddenSettings": null,
-    "storage": "nft-storage",
+    "storage": "aws",
     "ipfsInfuraProjectId": null,
     "ipfsInfuraSecret": null,
-    "nftStorageKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEM4ODg5NDY5MjE1NzZBNDRlZDRjNEQ5ZkJENjk5N2RlQjcwYUVlMmMiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTYzNDE1NjE2NjQ4NSwibmFtZSI6ImVtZXJhbGQifQ.QE1b8sJNWYpjlkfa_9DAn8tx3pfzO5ZJDiYYV2kjnZU",
-    "awsS3Bucket": null,
+    "nftStorageKey": null,
+    "awsS3Bucket": "nft-app-test-storage",
     "noRetainAuthority": false,
     "noMutable": false
 }
