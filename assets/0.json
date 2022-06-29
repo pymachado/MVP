@@ -5,8 +5,8 @@
     "image": "0.png",
     "attributes": [
       {
-        "trait_type": "type",
-        "value": "capital city"
+        "trait_type": "country",
+        "value": "CUBA"
       },
 	  {
         "trait_type": "accumulated_sales",
@@ -19,5 +19,5 @@
       ],
       "files": [{ "uri": "0.png", "type": "image/png" }]
     },
-    "collection": { "name": "MVP"}
+    "collection": { "name": "MVP_CAPITAL_CITIES"}
 }
