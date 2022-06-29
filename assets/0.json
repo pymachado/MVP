@@ -11,7 +11,7 @@
       }
     ],
   "properties": { "creators": [{ "address": "BUoLxaTAr9aprnAR4cygkqSfR3DoBJEmHTZc16KoUEBT", "share": 100 }],
-                  "files": [{ "uri": "0.jpeg", "type": "image/jpeg" }] 
+                  "files": [{ "uri": "0.jpg", "type": "image/jpg" }] 
                 },
   "collection": { "name": "MVP_CAPITAL_CITIES"} 
 
