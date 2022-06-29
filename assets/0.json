@@ -1,7 +1,7 @@
 {"name": "La Habana",
  "symbol": "LHB",
  "description": "MVP KIMIALABS",
-  "image": "0.jpeg",
+  "image": "0.jpg",
   "attributes": [ 
     { "trait_type": "country",           
       "value": "CUBA"
