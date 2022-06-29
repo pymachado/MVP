@@ -1,23 +1,18 @@
-{
-    "name": "La Habana",
-    "symbol": "LHB",
-    "description": "MVP KIMIALABS",
-    "image": "0.png",
-    "attributes": [
-      {
-        "trait_type": "type",
-        "value": "capital city"
-      },
-	  {
-        "trait_type": "accumulated_sales",
-        "value": "0"
+{"name": "La Habana",
+ "symbol": "LHB",
+ "description": "MVP KIMIALABS",
+  "image": "0.jpeg",
+  "attributes": [ 
+    { "trait_type": "country",           
+      "value": "CUBA"
+    },
+    { "trait_type": "accumulated_sales",
+      "value": "0" 
       }
     ],
-    "properties": {
-      "creators": [
-        { "address": "BUoLxaTAr9aprnAR4cygkqSfR3DoBJEmHTZc16KoUEBT", "share": 100 }
-      ],
-      "files": [{ "uri": "0.png", "type": "image/png" }]
-    },
-    "collection": { "name": "MVP"}
-}
+  "properties": { "creators": [{ "address": "BUoLxaTAr9aprnAR4cygkqSfR3DoBJEmHTZc16KoUEBT", "share": 100 }],
+                  "files": [{ "uri": "0.jpeg", "type": "image/jpeg" }] 
+                },
+  "collection": { "name": "MVP_CAPITAL_CITIES"} 
+
+}                     
