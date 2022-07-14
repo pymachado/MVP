@@ -1,5 +1,5 @@
 {
-    "price": 0.001,
+    "price": 0.1,
     "number": 1,
     "gatekeeper": null,
     "solTreasuryAccount": "BUoLxaTAr9aprnAR4cygkqSfR3DoBJEmHTZc16KoUEBT",
@@ -13,7 +13,7 @@
     "ipfsInfuraProjectId": null,
     "ipfsInfuraSecret": null,
     "nftStorageKey": null,
-    "awsS3Bucket": "nft-app-test-storage",
+    "awsS3Bucket": "nft-app-test",
     "noRetainAuthority": false,
     "noMutable": false
 }
