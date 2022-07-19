@@ -1,5 +1,5 @@
 "# MVP" 
-'[documentation]'
+`[documentation]`
 'https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started'
 
 [Requirements]
