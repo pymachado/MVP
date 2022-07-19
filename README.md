@@ -1,4 +1,5 @@
-# "MVP" 
+# "MVP KIMIALABS ON SOLANA BLOCKCHAIN" 
+# This is the repo that contain Metaplex configuration to upload the MVP collection to mainnet-beta enviroment and mint a token. 
 
 [Metaplex documentation ](https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started)
 
