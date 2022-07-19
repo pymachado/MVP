@@ -26,7 +26,7 @@ collection_1#
   }
 ~~~
 __[mint token account]__ `Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N`
-[nft minted](https://solscan.io/token/Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N#trades)
+[solscan link](https://solscan.io/token/Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N#trades)
 
 ~~~
 collection_2#
@@ -45,5 +45,5 @@ collection_2#
   }
   
 ~~~
-__[mint token acount]__ <HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85>
-  [nft minted](https://solscan.io/token/HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85#trades)  
+__[mint token acount]__ `HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85`
+  [solscan link](https://solscan.io/token/HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85#trades)  
