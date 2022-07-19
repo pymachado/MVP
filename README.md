@@ -8,6 +8,15 @@ solana-cli>latest version
 git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecated-clis
 ~~~
 
+## [commands]
+~~~
+[upload colection]
+ts-node gh_metaplex-foundation_metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e mainnet-beta -k /root/.config/solana/devnet_1.json -cp config.json -c nft_app_test assets/
+[verify upload]
+ts-node gh_metaplex-foundation_metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_upload -e mainnet-beta -k /root/.config/solana/devnet_1.json -c nft_app_test assets/
+[mint token]
+ts-node gh_metaplex-foundation_metaplex/js/packages/cli/src/candy-machine-v2-cli.ts mint_one_token -e mainnet-beta -k /root/.config/solana/devnet_1.json -c nft_app_test assets/
+
 ## [collections deployed]
 ~~~
 collection_1#
