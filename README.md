@@ -4,7 +4,7 @@
 
 
 `[Requirements]`
-`npm install @solana/web3.js`
+`npm install @solana/web3.js`/n
 `git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecated-clis`
 
 [collections deployed]
