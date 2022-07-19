@@ -3,12 +3,13 @@
 [Metaplex documentation ](https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started)
 
 ~~~ 
-`[Requirements]`
-`npm install @solana/web3.js`
-`git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecated-clis`
+[Requirements]
+npm install @solana/web3.js
+git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecated-clis
 ~~~
-[collections deployed]
-#collection_1#
+
+## [collections deployed]
+#### collection_1#
 <storage: nft.storage>
   Candy machine address:  DmQoBUcsNUBQqSfTzShV1r41zBnNnzXJzk26FbmWz3TW
   Collection metadata address:  AvRk3pqqhYf7gHfRV3tyvGxS9E1iyj3nZVDWkpLm1LhR
@@ -25,7 +26,7 @@
 <nft minted>
   https://solscan.io/token/Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N#trades
 
-#collection_2#
+collection_2#
 <storage: awsS3Bucket>
   Candy machine address:  wMy8tT9TFdLFd8Vdc8iZatCztsSpZzo95JwZzt9z28q
   Collection metadata address:  6hCPHUasHwKgvrNLPNauXe8cy9MnEMdZ1AC6WfFhWSQN
