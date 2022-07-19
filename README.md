@@ -24,9 +24,8 @@ collection_1#
     collectionPDA: '8XnQdK3ySRJqBRzHVSkbJ8NgxUyQuvvZxmej5eAbmLCR',
     txId: '5DYoAqkb7TBsWzty9YusmpScSZ1oqjds445w7bnKkmGVrp3CvoaUNF6MQNimuNpHvx1ceeKonFndShgBRhse873R'
   }
-***  
-<nft minted>
-  https://solscan.io/token/Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N#trades
+__[mint token acount]__ <Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N>
+[nft minted](https://solscan.io/token/Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N#trades)
 ~~~
 
 ~~~
