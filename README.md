@@ -9,7 +9,8 @@ git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecate
 ~~~
 
 ## [collections deployed]
-#### collection_1#
+~~~
+collection_1#
 <storage: nft.storage>
   Candy machine address:  DmQoBUcsNUBQqSfTzShV1r41zBnNnzXJzk26FbmWz3TW
   Collection metadata address:  AvRk3pqqhYf7gHfRV3tyvGxS9E1iyj3nZVDWkpLm1LhR
@@ -25,7 +26,9 @@ git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecate
   }
 <nft minted>
   https://solscan.io/token/Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N#trades
+~~~
 
+~~~
 collection_2#
 <storage: awsS3Bucket>
   Candy machine address:  wMy8tT9TFdLFd8Vdc8iZatCztsSpZzo95JwZzt9z28q
@@ -42,4 +45,4 @@ collection_2#
   }
 <nft minted>
   https://solscan.io/token/HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85#trades
-  
+~~~  
