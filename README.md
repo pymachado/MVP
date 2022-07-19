@@ -24,7 +24,6 @@ collection_1#
     collectionPDA: '8XnQdK3ySRJqBRzHVSkbJ8NgxUyQuvvZxmej5eAbmLCR',
     txId: '5DYoAqkb7TBsWzty9YusmpScSZ1oqjds445w7bnKkmGVrp3CvoaUNF6MQNimuNpHvx1ceeKonFndShgBRhse873R'
   }
-  
 ~~~
 __[mint token acount]__ <Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N>
 [nft minted](https://solscan.io/token/Hn8GMLSHnqHxrMpJtUwZGsbKXRjFFdYNNCXcpNJo9c9N#trades)
@@ -44,7 +43,8 @@ collection_2#
     collectionPDA: 'GBFTn1eqeU9naEPUWfEYB1rgeyx8VFLToTnBZmqdbZZp',
     txId: 'Mt6TNt6ssrM97F6MyLtREv8hiC5xPbhVinfCxkxoAWqWwBSyuphznvyfamNrJFgJ9N7ePfUYSc39vJBsiG49EYT'
   }
+  
+~~~
 ***  
-<nft minted>
-  https://solscan.io/token/HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85#trades
-~~~  
+__[mint token acount]__ <HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85>
+  [nft minted](https://solscan.io/token/HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85#trades)  
