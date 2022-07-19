@@ -1,6 +1,6 @@
 "# MVP" 
-[documentation]
-https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started
+'[documentation]'
+'https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started'
 
 [Requirements]
 npm install @solana/web3.js
