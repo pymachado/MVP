@@ -45,6 +45,5 @@ collection_2#
   }
   
 ~~~
-***  
 __[mint token acount]__ <HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85>
   [nft minted](https://solscan.io/token/HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85#trades)  
