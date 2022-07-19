@@ -1,7 +1,9 @@
 # "MVP" 
 
 [Metaplex documentation ](https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started)
-
+##[aws requirements]
+´1: ´[ACL configuration on awsS3Bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html)
+´2: ´[CORS configuration on awsS3Bucket](https://aws.amazon.com/premiumsupport/knowledge-center/s3-configure-cors/) 
 ~~~ 
 [Requirements]
 solana-cli>latest version
