@@ -10,6 +10,8 @@ git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecate
 
 ## [commands]
 ~~~
+[set enviroment to mainnet]
+solana config set --url https://api.mainnet-beta.solana.com
 [upload colection]
 ts-node gh_metaplex-foundation_metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e mainnet-beta -k /root/.config/solana/devnet_1.json -cp config.json -c nft_app_test assets/
 [verify upload]
