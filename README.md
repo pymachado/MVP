@@ -6,8 +6,9 @@
 1. [ACL configuration on awsS3Bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html)
 2. [CORS configuration on awsS3Bucket](https://aws.amazon.com/premiumsupport/knowledge-center/s3-configure-cors/) 
 
-~~~ 
-[Requirements]
+
+## [general requirements]
+~~~
 solana-cli>latest version
 git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecated-clis
 ~~~
