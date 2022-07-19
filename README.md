@@ -2,11 +2,11 @@
 
 [Metaplex documentation ](https://docs.metaplex.com/guides/archived/candy-machine-v2/getting-started)
 
-
-##### `[Requirements]`
-##### `npm install @solana/web3.js`
-##### `git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecated-clis`
-
+~~~ 
+`[Requirements]`
+`npm install @solana/web3.js`
+`git clone https://github.com/metaplex-foundation/deprecated-clis.git ~/deprecated-clis`
+~~~
 [collections deployed]
 #collection_1#
 <storage: nft.storage>
