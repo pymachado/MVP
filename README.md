@@ -43,7 +43,6 @@ collection_2#
     collectionPDA: 'GBFTn1eqeU9naEPUWfEYB1rgeyx8VFLToTnBZmqdbZZp',
     txId: 'Mt6TNt6ssrM97F6MyLtREv8hiC5xPbhVinfCxkxoAWqWwBSyuphznvyfamNrJFgJ9N7ePfUYSc39vJBsiG49EYT'
   }
-  
 ~~~
 __[mint token acount]__ `HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85`
   [solscan link](https://solscan.io/token/HzfHMnaFckdkZFu9kxfQC7zpTNZEAe3bTZfL4nNMso85#trades)  
